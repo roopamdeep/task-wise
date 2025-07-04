@@ -1,0 +1,1 @@
+TaskWise is a smart productivity companion that goes beyond basic tasks boards. Powered by AI, it helps you organize, prioritize and emotionally connect with your to-dos- so you don't just get things done, you get the right things done.
